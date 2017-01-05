@@ -1,0 +1,8 @@
+title: Omargon.github.io
+description: My Github Pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
